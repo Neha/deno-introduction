@@ -4,7 +4,6 @@
 
 - Modules from URLs (can be hosted on GitHub or any internal/private URL)
 - Server
-- We will run about security
 
 on command line type: deno run --allow-net server.ts
 
